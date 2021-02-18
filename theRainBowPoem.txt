@@ -1,4 +1,4 @@
-The Rainbow poem
+The Rainbow poem & Unicorns
 
 blue
 yellow
@@ -6,3 +6,5 @@ green
 orange
 
 are rainbowcolors
+
+and unicorns are in the sky.

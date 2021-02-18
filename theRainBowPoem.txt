@@ -3,5 +3,6 @@ The Rainbow poem
 blue
 yellow
 green
+orange
 
 are rainbowcolors
